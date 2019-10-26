@@ -95,3 +95,21 @@ input[type=email] {
     background: #5255B0 !important;
     color: #fff !important;
 }
+
+#learnmore a{
+    text-decoration: none;
+    opacity: 0.5;
+    font-weight: 500;
+}
+
+.btn-signup{
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    background: #fff;
+    color: #4d4d4d;
+    font-weight: 600;
+
+}
