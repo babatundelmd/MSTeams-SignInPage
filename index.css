@@ -104,6 +104,13 @@ input[type=email] {
     font-weight: 500;
 }
 
+
+.teams-details{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
 .btn-signup{
     padding: 10px 20px;
     outline: none;
@@ -114,11 +121,8 @@ input[type=email] {
     color: #4d4d4d;
     font-weight: 600;
     box-shadow: 0 10px 10px 0 rgb(189, 189, 189, 0.19), 0 5px 10px 0 rgba(189, 189, 189, 0.24);
+    cursor: pointer;
 
 
 }
 
-.teams-details{
-    margin-top: 15px;
-    margin-bottom: 15px;
-}
