@@ -1,2 +1,2 @@
-# MSTeams-SignInPage
-This is a Simple Signin Page inspired by Microsoft Teams
+# MS Teams SignIn Page
+Microsoft Teams Sign in Page clone
