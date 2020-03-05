@@ -10,7 +10,7 @@ html{
 body{
     background: #EDEBE9;
     padding: 20px 100px 20px;
-    
+
 }
 
 .teams-wrapper{
@@ -52,7 +52,7 @@ body{
 
 .signin-container{
     padding-top: 20px;
-  
+
 }
 
 .signin-input input{
@@ -86,7 +86,7 @@ input[type=email] {
     font-weight: 500;
     color: rgb(189, 189, 189);
 
-  
+
 }
 
 .classed {
@@ -126,3 +126,15 @@ input[type=email] {
 
 }
 
+
+@media (max-width: 375px) {
+    body{
+        width: auto;
+        padding: 10px 30px;
+    }
+
+    .teams-container {
+        width: 100%;
+        padding: 0;
+    }
+}
