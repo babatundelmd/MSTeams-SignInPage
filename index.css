@@ -130,11 +130,11 @@ input[type=email] {
 @media (max-width: 375px) {
     body{
         width: auto;
-        padding: 10px 30px;
+        padding: 10px 20px;
     }
 
     .teams-container {
         width: 100%;
-        padding: 0;
+        padding: 10px 15px;
     }
 }
